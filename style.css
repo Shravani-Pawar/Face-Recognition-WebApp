@@ -1,0 +1,39 @@
+#start{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: #04b6f7;
+}
+
+
+#wrap{
+    width: 960px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+padding: 90px 90px 90px 90px;
+text-align: center;
+}
+
+
+h1{
+    text-align: center;
+
+}
+
+
+.lists{
+    font-size: 14px;
+    
+}
+#o{
+    font-size: 16px;
+}
+
